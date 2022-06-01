@@ -1,10 +1,10 @@
 ### Olá, Sou Emilly Almeida 
 
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Hoje estou estudando TypeScript
+- :bulb: Estou trabalhando com front-end
+- :green_book: Hoje estou estudando TypeScript
 - 📫 Meu contato de e-mail é: emillyalmeidan@gmail.com
-- ⚡ Fatos sobre mim: amo ler livros de ficção e fazer crochê
+- :mag_right: Fatos sobre mim: amo ler livros:books: de ficção e fazer crochê :yarn:
 
 <div align="center">
   <a href="https://github.com/Emillyalmeida">
