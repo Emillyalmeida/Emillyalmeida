@@ -2,7 +2,7 @@
 
 
 - :bulb: Estou trabalhando com front-end
-- :green_book: Hoje estou estudando Vue.js
+- :green_book: Hoje estou estudando Next.js
 - 📫 Meu contato de e-mail é: emillyalmeidan@gmail.com
 - :mag_right: Fatos sobre mim: amo ler livros:books: de ficção e fazer crochê :yarn:
 
